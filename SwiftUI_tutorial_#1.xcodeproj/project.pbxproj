@@ -19,6 +19,7 @@
 		A8DF6B5D27A8F71300830155 /* SwiftUI_tutorial__1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DF6B5C27A8F71300830155 /* SwiftUI_tutorial__1UITestsLaunchTests.swift */; };
 		A8DF6B6A27A8FBA700830155 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DF6B6927A8FBA700830155 /* ContentView.swift */; };
 		A8DF6B6C27A8FC7F00830155 /* MyStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DF6B6B27A8FC7F00830155 /* MyStackView.swift */; };
+		A8E89E2427A910C200D9736E /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E89E2327A910C200D9736E /* MyTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		A8DF6B5C27A8F71300830155 /* SwiftUI_tutorial__1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_tutorial__1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A8DF6B6927A8FBA700830155 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A8DF6B6B27A8FC7F00830155 /* MyStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStackView.swift; sourceTree = "<group>"; };
+		A8E89E2327A910C200D9736E /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				A8DF6B3F27A8F71200830155 /* SwiftUI_tutorial__1.xcdatamodeld */,
 				A8DF6B6927A8FBA700830155 /* ContentView.swift */,
 				A8DF6B6B27A8FC7F00830155 /* MyStackView.swift */,
+				A8E89E2327A910C200D9736E /* MyTextView.swift */,
 			);
 			path = "SwiftUI_tutorial_#1";
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				A8DF6B3B27A8F71200830155 /* ViewController.swift in Sources */,
 				A8DF6B6A27A8FBA700830155 /* ContentView.swift in Sources */,
 				A8DF6B3727A8F71200830155 /* AppDelegate.swift in Sources */,
+				A8E89E2427A910C200D9736E /* MyTextView.swift in Sources */,
 				A8DF6B4127A8F71200830155 /* SwiftUI_tutorial__1.xcdatamodeld in Sources */,
 				A8DF6B3927A8F71200830155 /* SceneDelegate.swift in Sources */,
 				A8DF6B6C27A8FC7F00830155 /* MyStackView.swift in Sources */,
